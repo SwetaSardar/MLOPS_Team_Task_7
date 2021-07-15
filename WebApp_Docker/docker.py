@@ -3,7 +3,7 @@
 import cgi
 import subprocess
 
-print("context-type: text/html")
+print("content-type: text/html")
 print()
 
 
